@@ -25,11 +25,11 @@ So I am starting this project to replace easyC in some degrees (not completely, 
 
 ## The Implementation 项目实现
 
-IDE and code generator: mbeddr, together with some python scripts
-Online debugger: two Arduino UNO boards for both PC and robot, nRF24L01+ modules for wireless connection (I will make communication APIs open for using different wireless modules)
+* IDE and code generator: mbeddr, together with some python scripts
+* Online debugger: two Arduino UNO boards for both PC and robot, nRF24L01+ modules for wireless connection (I will make communication APIs open for using different wireless modules)
 
-IDE 和代码生成器：mbeddr 和手写的 Python 脚本
-在线调试器：两块 Arduino UNO 分别用于计算机端和机器人端，使用 nRF24L01+ 来完成无线通信（通信 API 将会开放，以便使用不同的无线模块）
+* IDE 和代码生成器：mbeddr 和手写的 Python 脚本
+* 在线调试器：两块 Arduino UNO 分别用于计算机端和机器人端，使用 nRF24L01+ 来完成无线通信（通信 API 将会开放，以便使用不同的无线模块）
 
 ## The Problems 目前的问题
 
