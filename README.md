@@ -55,7 +55,7 @@ Besides, if you have these things and you are interested in this project, please
 
 ## Contact Us 联系方式
 
-Any questions, donations, or you want to be a contibutor of this project, please send an email to:
+Any questions, donations, or you want to be a contributor of this project, please send an email to:
 
 如有任何问题，想要捐赠或者想共同开发，请发邮件到：
 
