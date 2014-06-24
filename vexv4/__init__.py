@@ -1,3 +1,3 @@
 __author__ = 'james'
 
-__all__ = ['automator', 'hardware', 'math', 'sys']
+__all__ = ['automator', 'debug', 'hardware', 'math', 'sys']

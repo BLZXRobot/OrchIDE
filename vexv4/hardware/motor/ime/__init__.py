@@ -7,6 +7,13 @@ __author__ = 'james'
 # long counter;
 # unsigned short speed;
 # } ImeData;
+
+# void DefineImeTable(unsigned char ucMotor1I2C, unsigned char ucucIme2I2C, unsigned char ucMotor3I2C, unsigned char ucMotor4I2C, unsigned char ucMotor5I2C,
+# unsigned char ucMotor6I2C, unsigned char ucMotor7I2C, unsigned char ucMotor8I2C, unsigned char ucMotor9I2C, unsigned char ucMotor10I2C);
+# void DefineMotorTypes(unsigned char ucMotorType1, unsigned char ucMotorType2, unsigned char ucMotorType3, unsigned char ucMotorType4, unsigned char ucMotorType5,
+# unsigned char ucMotorType6, unsigned char ucMotorType7, unsigned char ucMotorType8, unsigned char ucMotorType9, unsigned char ucMotorType10);
+
+
 # unsigned char InitIntegratedMotorEncoders(void);
 # void PresetIntegratedMotorEncoder(unsigned char ucMotor, long lPresetValue);
 # long GetIntegratedMotorEncoder(unsigned char ucMotor);
