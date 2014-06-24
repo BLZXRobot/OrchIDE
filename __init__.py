@@ -2,10 +2,9 @@ __author__ = 'james'
 
 # OrchIDE Main Script
 
-import vexv4
 
 def main():
-    vexv4
+    # vexv4
     pass
 
 
